@@ -6,6 +6,8 @@ Repositorio para el TFM:
 
 No se hace push ni de los datos ni de la base de datos ya que github pone limites para ficheros de mas de 100 Mgb
 
-Los datos se encuentran aquí: "https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data"
+•	El data se puede descargarse desde la siguiente dirección y debe de ser incluida en la carpeta llamada “data”:
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
 
-La base de datos se crea con el primer notebook llamado "0.base_de_datos.ipynb"
+•	La base de datos se crea ejecutando el código del primer Notebook llamado “0.base_de_datos.ipynb”. Se creara un fichero con extensión “.db” en la carpeta de “bbdd”.
+
